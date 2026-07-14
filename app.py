@@ -6,7 +6,7 @@ from PIL import Image
 # ---------------------------------------------------------
 # Settings
 # ---------------------------------------------------------
-MODEL_PATH = "car_damage_model_74pct_backup.keras"
+MODEL_PATH = "car_damage.keras"
 IMG_SIZE = (224, 224)
 CLASS_NAMES = ["01-minor", "02-moderate", "03-severe"]
 
