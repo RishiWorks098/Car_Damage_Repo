@@ -43,7 +43,7 @@ The app will open in your browser. Upload an image and click **Predict Severity*
 ```
 ├── app.py                                 # Streamlit web app
 ├── requirements.txt                       # Python dependencies
-├── car_damage_model_74pct_backup.keras    # Trained model
+├── car_damage.keras    # Trained model
 └── README.md
 ```
 
